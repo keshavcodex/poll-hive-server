@@ -1,0 +1,16 @@
+{
+  "name": "poll-hive-server",
+  "version": "1.0.0",
+  "description": "server of poll-hive were people can poll for small doubts of others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "keshavcodex, Yash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
